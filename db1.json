@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "dcaId": "1",
+      "proposalNo": "1",
+      "creditorName": "John Doe",
+      "debtorName": "John Cena",
+      "debtorCountryCode": 0,
+      "debtorCountry": "DZ",
+      "claimAmount": 80025,
+      "recoveredAmount": 6565645,
+      "caseAssignmentYear": "2021",
+      "status": "Y",
+      "createdBy": "Admin",
+      "createdDate": "1970-01-01T00:00:00.000+0000",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedDate": "1970-01-01T00:00:00.000+0000",
+      "metaRemarks": "SadADsds",
+      "versionNo": 1,
+      "id": 13
+    },
+    {
+      "proposalNo": 1,
+      "dcaId": "30",
+      "debtorCountryCode": 60,
+      "status": "Y",
+      "createdBy": "Admin",
+      "createdDate": "2019-07-04T13:33:03.969Z",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedDate": "2019-07-04T13:33:03.969Z",
+      "debtorCountry": "Bahamas",
+      "claimAmount": "50000",
+      "creditorName": "Stone Cold",
+      "debtorName": "John Cena",
+      "recoveredAmount": "20000",
+      "caseAssignmentYear": "2019-07-04T13:33:03.969Z",
+      "metaRemarks": "Updated",
+      "id": 14
+    },
+    {
+      "proposalNo": 1,
+      "dcaId": "30",
+      "debtorCountryCode": 60,
+      "status": "Y",
+      "createdBy": "Admin",
+      "createdDate": "2019-07-04T13:33:03.969Z",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedDate": "2019-07-04T13:33:03.969Z",
+      "debtorCountry": "Bahamas",
+      "claimAmount": "50000",
+      "creditorName": "Stone Cold",
+      "debtorName": "John Cena",
+      "recoveredAmount": "20000",
+      "caseAssignmentYear": "2019-07-04T13:33:03.969Z",
+      "metaRemarks": "Updated",
+      "id": 15
+    }
+  ]
+}
