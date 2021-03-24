@@ -1,7 +1,6 @@
 {
   "data": [
     {
-      "dcaId": "1",
       "proposalNo": "1",
       "creditorName": "Erwin Smithey",
       "debtorName": "Glynis Blose",
@@ -20,7 +19,6 @@
       "id": 17
     },
     {
-      "dcaId": "1",
       "proposalNo": "1",
       "creditorName": "Bryce Jo",
       "debtorName": "Glynis Blose",
@@ -39,7 +37,6 @@
       "id": 18
     },
     {
-      "dcaId": "1",
       "proposalNo": "1",
       "creditorName": "John Doe",
       "debtorName": "Britt Darden",
@@ -58,7 +55,6 @@
       "id": 20
     },
     {
-      "dcaId": "1",
       "proposalNo": "1",
       "creditorName": "Erwin Smithey",
       "debtorName": "Britt Darden",
@@ -77,7 +73,6 @@
       "id": 21
     },
     {
-      "dcaId": "1",
       "proposalNo": "1",
       "creditorName": "Valarie Marie",
       "debtorName": "John Cena",
@@ -96,80 +91,22 @@
       "id": 22
     },
     {
-      "dcaId": "1",
-      "proposalNo": "1",
-      "creditorName": "Valarie Marie",
-      "debtorName": "John Cena",
+      "proposalNo": 1,
+      "creditorName": "Sharan Mcabee",
+      "debtorName": "Dorotha Olivarez",
       "debtorCountryCode": 0,
       "debtorCountry": "Belarus",
       "claimAmount": 880000,
-      "recoveredAmount": 990000,
-      "caseAssignmentYear": "2021",
+      "recoveredAmount": 440000,
+      "caseAssignmentYear": "2013",
       "status": "Y",
       "createdBy": "Admin",
-      "createdDate": "2021-03-22T19:52:01.574+0000",
+      "createdDate": "1970-01-01T00:00:00.000+0000",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedDate": "2021-03-22T19:52:01.574+0000",
-      "metaRemarks": "Added",
+      "lastUpdatedDate": "1970-01-01T00:00:00.000+0000",
+      "metaRemarks": "Updated Again",
       "versionNo": 1,
       "id": 23
-    },
-    {
-      "dcaId": "1",
-      "proposalNo": "1",
-      "creditorName": "Erwin Smithey",
-      "debtorName": "Alice",
-      "debtorCountryCode": 0,
-      "debtorCountry": "Albania",
-      "claimAmount": 0,
-      "recoveredAmount": 0,
-      "caseAssignmentYear": "2021",
-      "status": "Y",
-      "createdBy": "Admin",
-      "createdDate": "1970-01-01T00:00:00.000+0000",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedDate": "1970-01-01T00:00:00.000+0000",
-      "metaRemarks": "Updated",
-      "versionNo": 1,
-      "id": 24
-    },
-    {
-      "dcaId": "1",
-      "proposalNo": "1",
-      "creditorName": "John Do",
-      "debtorName": "Alice",
-      "debtorCountryCode": 0,
-      "debtorCountry": "Andorra",
-      "claimAmount": 0,
-      "recoveredAmount": 0,
-      "caseAssignmentYear": "2021",
-      "status": "Y",
-      "createdBy": "Admin",
-      "createdDate": "1970-01-01T00:00:00.000+0000",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedDate": "1970-01-01T00:00:00.000+0000",
-      "metaRemarks": "Updated",
-      "versionNo": 1,
-      "id": 25
-    },
-    {
-      "dcaId": "1",
-      "proposalNo": "1",
-      "creditorName": "John Doe",
-      "debtorName": "Alice",
-      "debtorCountryCode": 0,
-      "debtorCountry": "Andorra",
-      "claimAmount": 0,
-      "recoveredAmount": 0,
-      "caseAssignmentYear": "2021",
-      "status": "Y",
-      "createdBy": "Admin",
-      "createdDate": "1970-01-01T00:00:00.000+0000",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedDate": "1970-01-01T00:00:00.000+0000",
-      "metaRemarks": "adadGHGJH",
-      "versionNo": 1,
-      "id": 26
     }
   ]
 }

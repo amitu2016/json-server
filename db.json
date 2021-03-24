@@ -1,8 +1,7 @@
 {
   "data": [
     {
-      "dcaId": "1",
-      "proposalNo": "1",
+      "proposalNo": 1,
       "countryCode": 5,
       "country": "Bahamas",
       "recoveryCharge": 500000,
@@ -18,8 +17,7 @@
       "id": 4
     },
     {
-      "dcaId": "1",
-      "proposalNo": "1",
+      "proposalNo": 1,
       "countryCode": 5,
       "country": "Belgium",
       "recoveryCharge": 88.65,
@@ -35,8 +33,7 @@
       "id": 5
     },
     {
-      "dcaId": "1",
-      "proposalNo": "1",
+      "proposalNo": 1,
       "countryCode": 5,
       "country": "Canada",
       "recoveryCharge": 33.25,
@@ -52,8 +49,7 @@
       "id": 7
     },
     {
-      "dcaId": "1",
-      "proposalNo": "1",
+      "proposalNo": 1,
       "countryCode": 5,
       "country": "Algeria",
       "recoveryCharge": 66.25,
@@ -69,8 +65,7 @@
       "id": 8
     },
     {
-      "dcaId": "1",
-      "proposalNo": "1",
+      "proposalNo": 1,
       "countryCode": 5,
       "country": "Bahamas",
       "recoveryCharge": 500000,
@@ -86,8 +81,7 @@
       "id": 9
     },
     {
-      "dcaId": "1",
-      "proposalNo": "1",
+      "proposalNo": 1,
       "countryCode": 5,
       "country": "Canada",
       "recoveryCharge": 56,
@@ -103,8 +97,7 @@
       "id": 11
     },
     {
-      "dcaId": "1",
-      "proposalNo": "1",
+      "proposalNo": 1,
       "countryCode": 5,
       "country": "Algeria",
       "recoveryCharge": 24.69,
@@ -120,8 +113,7 @@
       "id": 12
     },
     {
-      "dcaId": "1",
-      "proposalNo": "1",
+      "proposalNo": 1,
       "countryCode": 5,
       "country": "Cambodia",
       "recoveryCharge": 25,
@@ -137,8 +129,7 @@
       "id": 13
     },
     {
-      "dcaId": "1",
-      "proposalNo": "1",
+      "proposalNo": 1,
       "countryCode": 5,
       "country": "Bolivia",
       "recoveryCharge": 25,
@@ -154,25 +145,23 @@
       "id": 14
     },
     {
-      "proposalNo": "1",
-      "dcaId": "3",
-      "countryCode": "3",
+      "proposalNo": 1,
+      "countryCode": 5,
+      "country": "Albania",
+      "recoveryCharge": 25,
+      "region": "Africa",
+      "successRate": 88.36,
       "status": "Y",
       "createdBy": "Admin",
-      "createdDate": "2021-03-21T10:19:24.065+0000",
+      "createdDate": "2021-03-24T12:33:55.433+0000",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedDate": "2021-03-21T10:19:24.065+0000",
-      "versionNo": "1",
-      "country": "Albania",
-      "recoveryCharge": "25.0",
-      "region": "Africa",
-      "successRate": "088.36",
-      "metaRemarks": "Added",
+      "lastUpdatedDate": "2021-03-24T12:33:55.433+0000",
+      "metaRemarks": "Updated",
+      "versionNo": 1,
       "id": 15
     },
     {
-      "dcaId": "1",
-      "proposalNo": "1",
+      "proposalNo": 1,
       "countryCode": 5,
       "country": "Algeria",
       "recoveryCharge": 560000,
@@ -187,6 +176,5 @@
       "versionNo": 1,
       "id": 16
     }
-    
   ]
 }
